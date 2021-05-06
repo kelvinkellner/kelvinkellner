@@ -1,7 +1,7 @@
 ### Hi there! I'm a University student interested in CS, UX Design, Graphic Design, and Mathematics :brain:
 
 - 🌱 I’m currently learning about front-end web dev, C programming, and assembly using ARMv7
-- 👯 I’m collaborating on [a game dev project](https://github.com/PHI-WLU/PHI-Game) for the [PHI Society](https://github.com/PHI-WLU)
+- 👯 I’m collaborating on [a game dev project](https://github.com/LaurierCS/PHI-Game) for the [Laurier Computing Society](https://github.com/LaurierCS)
 - 💬 I'm happy to chat with you about anything programming, design, entrepreneurship, etc :))
 <hr>
 
