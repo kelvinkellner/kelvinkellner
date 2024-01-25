@@ -1,4 +1,4 @@
-### Hi there! I'm a University student interested in CS, UX Design, Graphic Design, and Mathematics :brain:
+### Hi there! I'm a Software Engineer and Computer Science graduate with an interest in, UX Design, Graphic Design, and Mathematics :brain:
 
 💬 I'm happy to chat with you about anything programming, design, entrepreneurship, etc :)
 <hr>
