@@ -1,6 +1,6 @@
-### Hi there! I'm a Software Engineer and Computer Science graduate with an interest in, UX Design, Graphic Design, and Mathematics :brain:
+### Hi there! I'm a Software Engineer and Computer Science graduate with an interest in UX Design and Visual Arts :brain:
 
-💬 I'm happy to chat with you about anything programming, design, entrepreneurship, etc :)
+💬 I'm happy to chat with you about anything programming, design, entrepreneurship, and more :)
 <hr>
 
 <p align="center">Knowledgeable with:</p>
